@@ -1,0 +1,86 @@
+body {
+    background-color: #EAEAEA;
+    margin: 0;
+    font-family: 'Merriweather', sans-serif;
+}
+
+table {
+    border: none;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 20px auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #040303;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+p {
+    line-height: 1.5;
+    font-size: 1.5rem;
+    margin-top: 60px;
+}
+
+.middle-container {
+    text-align: center;
+       
+}
+
+.bottom-container {
+    background-color: #93B5C6;
+    padding: 50px 0 20px;
+    margin-top: 60px;
+}
+
+.menu {
+    list-style: none;
+    display: flex; 
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+      
+}
+
+.kopfzeile {
+    background-color: #93B5C6;
+    
+    
+}
+
+.link-startseite {
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+.link-einzeltraining {
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+.link-über-mich {
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+.link {
+    color: #22577E;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+
+#ich {
+    border-radius: 400px;
+}

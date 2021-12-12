@@ -1,0 +1,94 @@
+body {
+    background-color: #EAEAEA;
+    margin: 0;
+    font-family: 'Merriweather', sans-serif;
+}
+
+table {
+    border: none;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 20px auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 1.5rem;
+    width: 70%;
+    margin: 50px auto 100px auto;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+    color: #040303;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.menu {
+    list-style: none;
+    display: flex; 
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+      
+}
+
+.top-container {
+    margin: 0;
+    
+}
+
+.middle-container {
+    text-align: center;
+}
+
+.bottom-container {
+    background-color: #93B5C6;
+    padding: 50px 0 20px;
+}  
+
+.link-startseite {
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+.link-einzeltraining {
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+.link-über-mich {
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+.kopfzeile {
+    background-color: #93B5C6;    
+}
+
+.link {
+    color: #22577E;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+
+#ich {
+    border-radius: 400px;
+}
+
